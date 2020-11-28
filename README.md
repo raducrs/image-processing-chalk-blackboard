@@ -10,4 +10,4 @@ Original Image | Background | Result
 ![original](images/github_avatar.jpg) | ![background](images/blackboard_wide_2.png) | ![result](images/github_avatar_blackboard.jpg)
 
 
-** Example as AWS Lambda (with OpenCV layer) with advanced features in [another repository](tbd)** 
+**Example as AWS Lambda (with OpenCV layer) with advanced features in [another repository](tbd)** 
